@@ -1,6 +1,3 @@
-Here’s a **fixed, clean, and professional version** of your `README.md`, with corrected formatting, clearer structure, and consistent wording.
-(Content is improved without changing your project logic.)
-
 ---
 
 # 🚔 YOLOv8 Pothole Detection System
